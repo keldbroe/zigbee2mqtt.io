@@ -23,7 +23,8 @@ pageClass: device-page
 
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
-
+## Resetting
+Rest: Press and hold the reset button for 10 seconds until the LED light flashes three times at third second, and it will flash for three times again at tenth second.
 
 <!-- Notes END: Do not edit below this line -->
 
